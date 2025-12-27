@@ -13,9 +13,9 @@ The analysis aims to understand:
 - How IT costs are distributed across functions, regions, and cost elements
 - Variance between actual, forecasted, and planned IT spend
 - Key cost drivers within IT areas such as:
-  a. Labor
-  b. Shared Services
-  c. Planning
+  - Labor
+  - Shared Services
+  - Planning
 
 📌 Key Features
 
