@@ -6,6 +6,7 @@ This project focuses on analyzing IT expenditure across different business areas
 
 The project consists of an interactive dashboard that provides transparency into Actual vs. Forecast vs. Planned IT costs, helping stakeholders track spending patterns and budget alignment.
 The analysis highlights overspending, underutilization, and cost inefficiencies across business units and geographies, enabling data-driven financial decisions.
+Using line charts, cards, donut charts, tree maps, funnels, decomposition chart, the project explores various aspects of analysis of IT expenditure of category wise spends, categorical distribution, region wise IT areas dominance, etc. 
 
 🎯 Objectives
 
