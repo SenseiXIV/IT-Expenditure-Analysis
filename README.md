@@ -18,6 +18,11 @@ The analysis aims to understand:
   - Shared Services
   - Planning
 
+Key Insights: 
+- The project reveals that category wise Infrastructure, Labor and Functional domain had highest IT spends. 
+- The total actual cost of the project was estimated to be about 555.37M.
+- Furthermore, it reveals that the cost variance between planned and actual costs varied by 38.28% with actual costs being lower than expected which showcases overall savings and a successful planning of the project expenditure.
+
 📌 Key Features
 
 - Interactive Power BI dashboard with drill-down capabilities
